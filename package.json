@@ -1,6 +1,6 @@
 {
   "name": "jibs-autolinker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Jibs autolinker, for linking installed modules automatically",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/th317erd/jibs-autolinker.git"
   },
-  "keywords": [ "jibs" ],
+  "keywords": [
+    "jibs"
+  ],
   "author": "Wyatt Greenway",
   "license": "MIT",
   "bugs": {
