@@ -3,7 +3,7 @@
     "jibs-autolink": "./index.js"
   },
   "name": "jibs-autolinker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Jibs autolinker, for linking installed modules automatically",
   "main": "index.js",
   "repository": {
